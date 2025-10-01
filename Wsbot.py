@@ -7,13 +7,13 @@ import requests
 
 # --- CONFIGURATION ---
 # 1. Fill in your bot token from BotFather
-TELEGRAM_BOT_TOKEN = "8075685157:AAFNOYxzcqb7q8RoalM8TW7c0_ZsiewF_yw"
+TELEGRAM_BOT_TOKEN = "7727850131:AAFM4IzhdGjZtbEoKRfGOMkrNxSxn11wwSc"
 
 # 2. Fill in your API token from whapi.cloud
 WHAPI_API_TOKEN = "7bll65fpJmnZSi7SaXWgCZpcFb7hg5xX"
 
 # 3. Your channel username. The bot MUST be an admin in this channel.
-CHANNEL_USERNAME = "@EITECHMETHODS" 
+CHANNEL_USERNAME = "@wsceko" 
 # --- END OF CONFIGURATION ---
 
 
