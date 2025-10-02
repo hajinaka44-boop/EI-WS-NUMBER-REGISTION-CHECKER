@@ -10,7 +10,7 @@ import requests
 TELEGRAM_BOT_TOKEN = "7727850131:AAFM4IzhdGjZtbEoKRfGOMkrNxSxn11wwSc"
 
 # 2. Fill in your API token from whapi.cloud
-WHAPI_API_TOKEN = "7bll65fpJmnZSi7SaXWgCZpcFb7hg5xX"
+WHAPI_API_TOKEN = "QQts9t9M5JkbQkca96CHJox3qAmKPNSy"
 
 # 3. Your channel username. The bot MUST be an admin in this channel.
 CHANNEL_USERNAME = "@wsceko" 
@@ -19,7 +19,7 @@ CHANNEL_USERNAME = "@wsceko"
 
 # --- CONSTANTS ---
 WHAPI_API_URL = "https://gate.whapi.cloud/contacts"
-CREATOR_CREDIT = "Made By EI TECH METHOD"
+CREATOR_CREDIT = "DrizAlexxxa"
 # --- END OF CONSTANTS ---
 
 # Enable logging
